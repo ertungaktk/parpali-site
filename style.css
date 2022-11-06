@@ -1,0 +1,45 @@
+.navbar{
+    color: #FFF5F3;
+    background: #fff5f3 !important;;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #FFF5F3;
+}
+
+.s-c{
+    color:#04989C !important;
+}
+.t-c{
+    color: #04989C;
+}
+
+.bg-sc{
+
+    background-color:#04979c36 !important;
+    
+}
+
+
+.bg-pri{
+    background-color: #04989C !important;
+}
+
+.kutu{
+    background-color:#fff5f3 !important;
+}
+button:hover.kutu{
+    background-color:#04979c36 !important ;
+    
+    
+}
+
+a:hover.l-c{
+    color: #012e30 !important;
+}
+
+.vertical-center{
+    
+    align-items: center;
+}
